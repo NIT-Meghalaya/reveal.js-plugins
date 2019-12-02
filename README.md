@@ -9,7 +9,7 @@ This collections includes the following plugins:
 - [Broadcast](https://github.com/rajgoel/reveal.js-plugins/tree/master/broadcast) ([Demo](https://rajgoel.github.io/reveal.js-demos/broadcast-demo.html)): An extension of the multiplex plugin allowing to broadcast audio and video.
 - [Chalkboard](https://github.com/rajgoel/reveal.js-plugins/tree/master/chalkboard) ([Demo](https://rajgoel.github.io/reveal.js-demos/chalkboard-demo.html)):
  A plugin adding a chalkboard and slide annotation.
-- [Chart](https://github.com/rajgoel/reveal.js-plugins/tree/master/chart) ([Demo](https://rajgoel.github.io/reveal.js-demos/chart-demo.html)):
+- [Chart](https://github.com/rajgoel/reveal.js-plugins/tree/master/chart) ([Demo](https://nit-meghalaya.github.io/reveal.js-demos/chart-demo.html)):
  A plugin for using Chart.js v2.0. 
 - [Custom controls](https://github.com/rajgoel/reveal.js-plugins/tree/master/customcontrols) ([Demo](https://rajgoel.github.io/reveal.js-demos/customcontrols-demo.html)): 
  A plugin for customization of controls.
